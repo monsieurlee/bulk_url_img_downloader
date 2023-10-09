@@ -2,7 +2,7 @@ This python script allows bulk download of image from a list of URLs, and rename
 
 Make sure that the 'requests' library is installed, if not, run "pip install requests"
 
-1. Create a CSV file in this format <url>,<filename.jpg>, like below
+1. Create a CSV file in this format (url),(filename.jpg), like below
 
 ~~~
 
